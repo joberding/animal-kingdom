@@ -28,6 +28,11 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
+  },
+  {
+    id: 'alicante',
+    name: 'Alicante',
+    superpower: 'Demon Towers!'
   }
 ]
 
